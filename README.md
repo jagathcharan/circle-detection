@@ -21,6 +21,7 @@ The dataset is prepared by creating the background creation functions generate v
 Running the code automatically creates the synthic dataset to the mounted drive
 
 ## Training the Model:
+Training the model using Yolo v8 which is mainly using now a days
 Open the Google Colab notebook and run the training section.
 Adjust hyperparameters as needed.
 
@@ -28,7 +29,7 @@ Adjust hyperparameters as needed.
 Use the provided code to validate the model's performance on the validation dataset.
 Evaluate metrics like accuracy, precision, recall, and IoU.
 
-## Testing:
+## Testing :
 Test the images attached to the file to skip the traing process i have give the image data set and model to verification
 
 ## Accuracy
