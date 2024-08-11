@@ -17,6 +17,7 @@ Mounting drive -->  synthetic Data creation --> spliting the data --> training -
 README.md
 
 ## Prepare Dataset:
+The dataset is prepared by creating the background creation functions generate various types of synthetic backgrounds for data preparation, including solid colors, gradients, noise, and patterns like stripes. These diverse backgrounds are used to enhance the robustness of the model by providing varied visual contexts during training.
 Running the code automatically creates the synthic dataset to the mounted drive
 
 ## Training the Model:
